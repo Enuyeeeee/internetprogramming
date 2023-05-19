@@ -58,14 +58,13 @@ body {
    }
    
    button:hover {
-    background-color: #3E8E41;
+    background-color: skyblue;
    }
    
    .result-container {
     display: none;
     margin-top: 30px;
    }
-   
    .result-container p {
     font-size: 1.5rem;
     margin-bottom: 20px;
