@@ -1,6 +1,7 @@
 body {
     font-family: Arial, sans-serif;
    }
+   
    .game-container {
     max-width: 600px;
     margin: 50px auto;
@@ -10,10 +11,12 @@ body {
     border-radius: 10px;
     box-shadow: 0 0 25px rgba(0, 0, 0, 0.1);
    }
+   
    h1 {
     font-size: 3rem;
     margin: 0;
    }
+   
    .score-container {
     display: flex;
     align-items: center;
@@ -38,6 +41,7 @@ body {
     width: 80px;
     text-align: center;
    }
+   
    .game-options {
     display: flex;
     align-items: center;
@@ -65,6 +69,7 @@ body {
     display: none;
     margin-top: 30px;
    }
+   
    .result-container p {
     font-size: 1.5rem;
     margin-bottom: 20px;
